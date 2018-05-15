@@ -1,2 +1,2 @@
-document.getElementById("demo").innerHTML = x 
-var x = 5+6
+var Ethan = 5
+console.log(Ethan)
